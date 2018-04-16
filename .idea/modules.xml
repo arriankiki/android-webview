@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Arrian CV.iml" filepath="$PROJECT_DIR$/Arrian CV.iml" />
+      <module fileurl="file://D:\DATA PROJECT\Android PDF\AndroidStudioProject\BagiWebview-master\BagiWebview.iml" filepath="D:\DATA PROJECT\Android PDF\AndroidStudioProject\BagiWebview-master\BagiWebview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+    </modules>
+  </component>
+</project>
